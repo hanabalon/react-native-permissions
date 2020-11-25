@@ -1,6 +1,6 @@
 export const ANDROID = Object.freeze({
   ACCEPT_HANDOVER: 'android.permission.ACCEPT_HANDOVER' as const,
-  ACCESS_BACKGROUND_LOCATION: 'android.permission.ACCESS_BACKGROUND_LOCATION' as const,
+  // ACCESS_BACKGROUND_LOCATION: 'android.permission.ACCESS_BACKGROUND_LOCATION' as const,
   ACCESS_COARSE_LOCATION: 'android.permission.ACCESS_COARSE_LOCATION' as const,
   ACCESS_FINE_LOCATION: 'android.permission.ACCESS_FINE_LOCATION' as const,
   ACTIVITY_RECOGNITION: 'android.permission.ACTIVITY_RECOGNITION' as const,

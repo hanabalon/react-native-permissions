@@ -33,7 +33,7 @@ public class RNPermissionsModule extends ReactContextBaseJavaModule {
 
   private static final String[][] PERMISSIONS = new String[][] {
     { "ACCEPT_HANDOVER", "android.permission.ACCEPT_HANDOVER" },
-    { "ACCESS_BACKGROUND_LOCATION", "android.permission.ACCESS_BACKGROUND_LOCATION" },
+    // { "ACCESS_BACKGROUND_LOCATION", "android.permission.ACCESS_BACKGROUND_LOCATION" },
     { "ACCESS_COARSE_LOCATION", "android.permission.ACCESS_COARSE_LOCATION" },
     { "ACCESS_FINE_LOCATION", "android.permission.ACCESS_FINE_LOCATION" },
     { "ACTIVITY_RECOGNITION", "android.permission.ACTIVITY_RECOGNITION" },
